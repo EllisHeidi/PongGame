@@ -6,7 +6,7 @@
 header('Content-Type: text/html; charset=UTF-8');
 
 // Game configuration
-$gameTitle = "Enhanced Pong Game";
+$gameTitle = "Pong Game";
 $maxScore = 10;
 $canvasWidth = 900;
 $canvasHeight = 500;
